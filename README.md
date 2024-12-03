@@ -46,12 +46,16 @@ This paper investigates the voting behaviors of Large Language Models (LLMs), sp
 ## Citing Our Work
 If you use this repository for your research, please cite our paper:
 ```bibtex
-@inproceedings{yang2024llmvoting,
-  title={LLM Voting: Human Choices and AI Collective Decision Making},
+@article{yang2024llmvoting,
+  title={{LLM} Voting: Human Choices and {AI} Collective Decision Making},
   author={Yang, Joshua C. and Dailisan, Damian and Korecki, Marcin and Hausladen, Carina I. and Helbing, Dirk},
-  booktitle={AAAI Conference on AI, Ethics, and Society (AIES)},
+  volume = {7},
+  ISSN = {3065-8365},
+  DOI = {10.1609/aies.v7i1.31758},
   year={2024},
-  doi={10.48550/arXiv.2402.01766},
-  url={https://doi.org/10.48550/arXiv.2402.01766}
+  month = oct,
+  pages = {1696–1708},
+  journal = {Proceedings of the AAAI/ACM Conference on AI,  Ethics,  and Society},
+  publisher = {Association for the Advancement of Artificial Intelligence (AAAI)},
 }
 
